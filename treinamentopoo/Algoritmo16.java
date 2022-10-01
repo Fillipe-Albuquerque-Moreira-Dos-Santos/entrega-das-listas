@@ -25,8 +25,8 @@ public class Algoritmo16 {
 		String quartocaractere = nome.substring(1);
 		System.out.println("O quarto caractere é: " + quartocaractere);
 		// Os dois ultimos
-				String doisultimos = nome.substring(5);
-				System.out.println("Os dois ultimos caracteres  é: " + doisultimos);
+		String doisultimos = nome.substring(5);
+		System.out.println("Os dois ultimos caracteres  é: " + doisultimos);
 		Principal.operacoes();
 		sc.close();
 

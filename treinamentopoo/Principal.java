@@ -87,8 +87,46 @@ public class Principal {
 			Algoritmo16 alg16 = new Algoritmo16();
 			alg16.algoritmo16();
 			
+		case 17:
+			Algoritmo17 alg17 = new Algoritmo17();
+			alg17.algoritmo17();
 			
+		case 18:
+			Algoritmo18 alg18 = new Algoritmo18();
+			alg18.algoritmo18();
+			
+		case 19:
+			Algoritmo19 alg19 = new Algoritmo19();
+			alg19.algoritmo19();
+			
+		case 20:
+			Algoritmo20 alg20 = new Algoritmo20();
+			alg20.algoritmo20();
+			
+		case 21:
+			Algoritmo21 alg21 = new Algoritmo21();
+			alg21.algoritmo21();
+			
+		case 22:
+			Algoritmo22 alg22 = new Algoritmo22();
+			alg22.algoritmo22();
+			
+		case 23:
+			Algoritmo23 alg23 = new Algoritmo23();
+			alg23.algoritmo23();
+			
+		case 24:
+			Algoritmo24 alg24 = new Algoritmo24();
+			alg24.algoritmo24();
+			
+		case 25:
+			Algoritmo25 alg25 = new Algoritmo25();
+			alg25.algoritmo25();
 
+		case 26:
+			Algoritmo26 alg26 = new Algoritmo26();
+			alg26.algoritmo26();
+			
 		case 27:
 			System.out.println("Obrigado por visitar a minha lista de exercícios professor. Até mais. =)");
 			System.exit(0);
