@@ -18,6 +18,5 @@ public class Algoritmo18 {
 		System.out.println("O perimetro do circulo é: " + raio);
 		Principal.operacoes();
 		sc.close();
-
 	}
 }
