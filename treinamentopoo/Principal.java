@@ -16,7 +16,7 @@ public class Principal {
 		System.out.println("-------------------------------------------------------------------------");
 		System.out.println("------------------Bem vindo a Lista de exercicios -----------------------");
 		System.out.println("-------------------------------------------------------------------------");
-		System.out.println("Professor Romulo digite de 1 a 26 para corrigir meu trabalho de POO");
+		System.out.println("Professor Romulo digite de 1 a 27 para corrigir meu trabalho de POO");
 		System.out.println("-------------------------------------------------------------------------");
 		System.out.println("---------------Digite 28 para sair da aplicação--------------------------");
 		System.out.println("-------------------------------------------------------------------------");
@@ -138,7 +138,7 @@ public class Principal {
 
 		default:
 			System.out.println("Opção Inválida");
-			System.out.println("Digite um número entre 1 a 26.");
+			System.out.println("Digite um número entre 1 a 27.");
 			System.out.println("28 para sair da aplicação");
 			operacoes();
 			break;
