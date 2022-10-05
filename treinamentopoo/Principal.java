@@ -18,7 +18,7 @@ public class Principal {
 		System.out.println("-------------------------------------------------------------------------");
 		System.out.println("Professor Romulo digite de 1 a 26 para corrigir meu trabalho de POO");
 		System.out.println("-------------------------------------------------------------------------");
-		System.out.println("---------------Digite 27 para sair da aplicação--------------------------");
+		System.out.println("---------------Digite 28 para sair da aplicação--------------------------");
 		System.out.println("-------------------------------------------------------------------------");
 		int op = sc.nextInt();
 		switch (op) {
@@ -128,6 +128,10 @@ public class Principal {
 			alg26.algoritmo26();
 			
 		case 27:
+			Algoritmo27 alg27 = new Algoritmo27();
+			alg27.algoritmo27();
+			
+		case 28:
 			System.out.println("Obrigado por visitar a minha lista de exercícios professor. Até mais. =)");
 			System.exit(0);
 			break;
@@ -135,7 +139,7 @@ public class Principal {
 		default:
 			System.out.println("Opção Inválida");
 			System.out.println("Digite um número entre 1 a 26.");
-			System.out.println("27 para sair da aplicação");
+			System.out.println("28 para sair da aplicação");
 			operacoes();
 			break;
 
