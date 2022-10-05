@@ -16,9 +16,7 @@ public class Algoritmo18 {
 		
 		System.out.println("A área do circulo é: " + resultado);
 		System.out.println("O perimetro do circulo é: " + raio);
-		
-
-		
+		Principal.operacoes();
 		sc.close();
 
 	}
