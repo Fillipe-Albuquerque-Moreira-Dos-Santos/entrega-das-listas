@@ -18,7 +18,7 @@ public class Algoritmo15 {
 		qlw = sc.nextDouble();
 		novosalario = salario /0.07;
 		novoqlw = novosalario - 0.10; 
-		System.out.println("O valor do salário minimo é: " + salario);
+		System.out.println("O valor do salário minimo é: " + novosalario);
 		System.out.println("O valor em reais de cada quilowatts é: " + qlw);
 		System.out.println("O novo valor da residência a ser pago é: " + novoqlw );
 		Principal.operacoes();
